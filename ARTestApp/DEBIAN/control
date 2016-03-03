@@ -1,0 +1,11 @@
+Package: org.golde.cydia.ARtest 
+Name: AR Test App
+Version: 1.0 
+Architecture: iphoneos-arm 
+Description: Installs My AR App on your phone. Download AR image here: http://eric.golde.org/Cydia/ARPicture.png
+Homepage: eric.golde.org/cydia 
+Maintainer: Eric Golde
+Author: Eric Golde
+Section: ECR_Apps 
+Conflicts: 
+Depends: 
